@@ -2,8 +2,12 @@
 	"name": "fcc-learn-npm-package-json",
 	"author": "jekijeki",
 	"description": "Backend course at FreeCodeCamp",
+	"keywords": ["backend course", "freecodecamp", "npm"],
+	"license": "MIT",
+	"version": "1.0.0",
 	"dependencies": {
-		"express": "^4.14.0"
+		"express": "^4.14.0",
+		"moment": "^2.10.2"
 	},
 	"main": "server.js",
 	"scripts": {
